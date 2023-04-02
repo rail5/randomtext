@@ -9,6 +9,6 @@ Version: 1.0
 License: GPL-3.0
 Vendor: rail5 <andrew@rail5.org>
 Priority: optional
-Architecture: any
+Architecture: all
 Depends: coreutils
 Description: Converts output from /dev/urandom to printable ASCII
