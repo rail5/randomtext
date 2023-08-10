@@ -1,3 +1,9 @@
+randomtext (1.2) bullseye; urgency=medium
+
+  * Dummy update for testing purposes
+
+ -- rail5 <andrew@rail5.org>  Thu, 10 Aug 2023 15:16:45 -0400
+
 randomtext (1.1) bullseye; urgency=medium
 
   * Changed architecture 'any' to 'all' in debian/control
