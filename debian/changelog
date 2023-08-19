@@ -1,3 +1,9 @@
+randomtext (1.6) stable; urgency=medium
+
+  * Moving everything to Debian 12
+
+ -- rail5 <andrew@rail5.org>  Fri, 18 Aug 2023 23:07:39 -0400
+
 randomtext (1.5) bullseye; urgency=medium
 
   * One more dummy update
