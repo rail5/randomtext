@@ -1,2 +1,2 @@
 # randomtext
-Outputs printable ASCII from /dev/urandom
+Outputs random printable ASCII

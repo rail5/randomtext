@@ -1,6 +1,6 @@
 all:
-	chmod +x randomtext
+	g++ -O2 -s -o randomtext main.cpp
 
-install:
-	install -m 0755 randomtext /usr/bin
-
+clean:
+	rm -f randomtext
+.PHONY: all clean
