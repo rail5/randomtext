@@ -1,3 +1,11 @@
+randomtext (2.0) stable; urgency=medium
+
+  * Rewritten in C++
+  * Include newline chars in random character set
+  * Added -l option: output newline every <num> chars
+
+ -- rail5 <andrew@rail5.org>  Sat, 07 Jun 2025 12:29:31 +0800
+
 randomtext (1.6) stable; urgency=medium
 
   * Moving everything to Debian 12

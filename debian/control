@@ -1,7 +1,7 @@
 Source: randomtext
 Priority: optional
 Maintainer: rail5 <andrew@rail5.org>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 8.0.0), g++
 Standards-Version: 3.9.3
 Section: utils
 
@@ -10,6 +10,11 @@ Version: 1.0
 License: GPL-3.0
 Vendor: rail5 <andrew@rail5.org>
 Priority: optional
-Architecture: all
+Architecture: any
 Depends: coreutils
-Description: Converts output from /dev/urandom to printable ASCII
+Description: Outputs random printable ASCII characters.
+ This program outputs random printable ASCII characters to stdout.
+ It can be used to generate random text for testing or other purposes.
+ It is a simple utility that does not require any additional libraries or dependencies.
+ .
+ Homepage: https://github.com/rail5/randomtext
